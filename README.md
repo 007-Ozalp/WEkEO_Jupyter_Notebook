@@ -7,11 +7,11 @@ The Sea Surface Temperature (SST) is an important physical characteristic of the
 #### Accordingly, the input “CMEMS_SST” in the netCDF format is prepared to display Seasonal and Annual Maps together with Trends and Anomalies. The Spatial data for the Area of Interest is called “areaAdriatic” in the CSV format. 
 The Input Data “CMEMS_SST.nc” and “areaAdriatic.csv” are present in the following [link](https://drive.google.com/drive/u/0/folders/1D1kQBpmnS4r2Dhq7f8bkhWXC_WF8gIkD).
 
-#### CONTENTS of the Jupyter Notebook:
+## CONTENTS of the Jupyter Notebook:
 
 1) Section 1: Data processing: CMEMS Data.
 
-#### THE CODE HAS THE FOLLOWING SECTIONS:
+#### THE CODE SECTIONS:
 
 2) Section 2: Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
 3) Section 3: The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
