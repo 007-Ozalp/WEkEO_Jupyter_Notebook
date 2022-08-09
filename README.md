@@ -16,3 +16,13 @@ The Input Data “CMEMS_SST.nc” and “areaAdriatic.csv” are present in the 
 4) Section 4: The Seasonal and Annual Mean Map Visualizations.
 5) Section 5: The Seasonal Anomalies Map Visualizations.
 6) Section 6: References.
+
+
+
+There are two sections of code at the top that occure before entering the main programme and includes:
+
+1. importing modules
+2. "functions_cmems.py" file which contains functions that are called in the main programme
+
+The "functions_cmems.py" file contains calling functions to provide necessary methods for the data elaboration.
+Therefore, in the initial part contains the specific functions for the aggregations and, continuing with data analysis and visualization functions and finally calculation and visualization of seasonal anomalies functions.
