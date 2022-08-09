@@ -1,5 +1,3 @@
-# WEkEO_Jupyter_Notebook
-
 ## Introduction to WEkEO Notebooks
 
 
